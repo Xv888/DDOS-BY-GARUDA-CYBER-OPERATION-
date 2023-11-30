@@ -1,1 +1,3 @@
 # DDOS-BY-GARUDA-CYBER-OPERATION
+Script DDOS Attack C2
+Enjoy:)
